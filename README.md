@@ -2,6 +2,7 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/wenfangdu.faster-new.svg)](https://marketplace.visualstudio.com/items?itemName=wenfangdu.faster-new)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/wenfangdu.faster-new.svg)](https://marketplace.visualstudio.com/items?itemName=wenfangdu.faster-new)
+[![License](https://img.shields.io/github/license/wenfangdu/vscode-new?color=brightgreen)](https://github.com/wenfangdu/vscode-new/blob/main/LICENSE)
 
 > Create file or folder from file's context menu
 
