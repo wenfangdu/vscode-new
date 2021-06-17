@@ -8,6 +8,6 @@
 
 [💿 Install Via Marketplace](https://marketplace.visualstudio.com/items?itemName=wenfangdu.faster-new)
 
-By default, VSCode doesn't have the `New File` / `New Folder` option for file's context menu, this extension provides them for you.
+By default, VSCode doesn't have `New File` and `New Folder` options for the file's context menu, this extension provides them for you.
 
 ![Demo](./images/demo.gif)
