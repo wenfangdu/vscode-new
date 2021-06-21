@@ -1,4 +1,4 @@
-# New File / Folder
+# New File or Folder
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/wenfangdu.faster-new.svg)](https://marketplace.visualstudio.com/items?itemName=wenfangdu.faster-new)
 [![License](https://img.shields.io/github/license/wenfangdu/vscode-new?color=brightgreen)](https://github.com/wenfangdu/vscode-new/blob/main/LICENSE)
