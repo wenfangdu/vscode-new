@@ -2,7 +2,7 @@
   "name": "faster-new",
   "displayName": "New File or Folder",
   "description": "💼 Create file or folder from file's context menu in VSCode",
-  "version": "1.3.9",
+  "version": "1.3.10",
   "publisher": "wenfangdu",
   "icon": "images/icon.png",
   "license": "MIT",
@@ -30,6 +30,22 @@
     "Visualization",
     "Notebooks",
     "Education"
+  ],
+  "keywords": [
+    "click",
+    "context",
+    "create",
+    "fast",
+    "file",
+    "folder",
+    "menu",
+    "new",
+    "productivity",
+    "quick",
+    "rapid",
+    "right",
+    "util",
+    "utility"
   ],
   "contributes": {
     "commands": [
