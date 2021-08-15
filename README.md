@@ -10,4 +10,4 @@
 
 By default, VSCode doesn't have `New File` and `New Folder` options for the file's context menu, this extension provides them for you.
 
-![Demo](./images/demo.gif)
+![Demo](https://raw.githubusercontent.com/wenfangdu/vscode-new/main/images/demo.gif)
