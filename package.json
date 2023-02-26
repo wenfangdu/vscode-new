@@ -2,7 +2,7 @@
   "name": "faster-new",
   "displayName": "New",
   "description": "💼 Create files & folders from file's context menu in VSCode",
-  "version": "1.4.3",
+  "version": "1.5.2",
   "publisher": "wenfangdu",
   "icon": "images/icon.png",
   "license": "MIT",
@@ -66,13 +66,13 @@
   },
   "devDependencies": {
     "@types/vscode": "^1.0.0",
-    "@types/glob": "^7.1.4",
+    "@types/glob": "^7.2.0",
     "@types/mocha": "^8.2.3",
     "@types/node": "14.x",
     "eslint": "^7.32.0",
-    "glob": "^7.1.7",
+    "glob": "^7.2.0",
     "mocha": "^8.4.0",
-    "typescript": "^4.4.2",
+    "typescript": "^4.6.2",
     "vscode-test": "^1.6.1"
   }
 }
